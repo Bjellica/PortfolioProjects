@@ -16,8 +16,8 @@ Here's the list of my projects and the corresponding files for each.
    PowerBI_Project.pbix
 
 #4 Absenteeism at Work:
+   Absenteeism_project.sql
    Absenteeism_at_work.csv
    Reasons.csv
    compensation.csv
-   Absenteeism_project.sql
    Absenteeism_at_work_dashboard.pbix
