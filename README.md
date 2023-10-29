@@ -14,4 +14,10 @@ Here's the list of my projects and the corresponding files for each.
 #3 Data Professional Survey Breakdown:
    Power BI - Final Project.xlsx
    PowerBI_Project.pbix
-   Power_BI_Dashboard(Photo).jpg
+
+#4 Absenteeism at Work:
+   Absenteeism_at_work.csv
+   Reasons.csv
+   compensation.csv
+   Absenteeism_project.sql
+   Absenteeism_at_work_dashboard.pbix
